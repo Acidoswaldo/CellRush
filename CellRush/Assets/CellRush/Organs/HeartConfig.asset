@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbfbb5af293b342938412aabf624811c, type: 3}
+  m_Name: HeartConfig
+  m_EditorClassIdentifier: 
+  organName: Heart
+  description: "Thump-thump! The heart is your body\u2019s very own energy dynamo,
+    pumping vitality through your veins like a boss! Add cells to supercharge its
+    rhythm and watch as it sends energy flowing faster than a caffeinated squirrel
+    on a mission. Just make sure to keep it chill\u2014no need for a cardiac conga
+    line!"
+  organImage: {fileID: 21300000, guid: 886301b0353204196a1008021ec5fe10, type: 3}
+  organBackgroundImage: {fileID: 4860824522884019289, guid: 03cdfad14269e4f0ca7e5a285accb3c9, type: 3}
+  organColor: {r: 0.9245283, g: 0.3532396, b: 0.3532396, a: 1}
+  baseEnergyPerCell:
+    mantissa: 1
+    magnitude: 0
+    value: 1.00
+  baseCosts:
+  - mantissa: 0
+    magnitude: 0
+    value: 0.00
+  - mantissa: 1
+    magnitude: 1
+    value: 1.00K
+  - mantissa: 10
+    magnitude: 1
+    value: 10.00K
+  - mantissa: 100
+    magnitude: 1
+    value: 100.00K
+  - mantissa: 1
+    magnitude: 2
+    value: 1.00M
+  baseCellCost:
+    mantissa: 0
+    magnitude: 0
+    value: 
+  upgradesInfo:
+  - percentageIncrease: 20
+    cost:
+      mantissa: 0
+      magnitude: 0
+      value: 
+  - percentageIncrease: 50
+    cost:
+      mantissa: 0
+      magnitude: 0
+      value: 
+  - percentageIncrease: 100
+    cost:
+      mantissa: 0
+      magnitude: 0
+      value: 
+  - percentageIncrease: 200
+    cost:
+      mantissa: 0
+      magnitude: 0
+      value: 
+  - percentageIncrease: 400
+    cost:
+      mantissa: 0
+      magnitude: 0
+      value: 

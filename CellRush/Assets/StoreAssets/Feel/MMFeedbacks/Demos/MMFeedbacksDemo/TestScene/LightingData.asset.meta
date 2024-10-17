@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b85172a42cd369b4dab73b28ff4fff7d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 4.3
+  assetPath: Assets/Feel/MMFeedbacks/Demos/MMFeedbacksDemo/TestScene/LightingData.asset
+  uploadId: 689191

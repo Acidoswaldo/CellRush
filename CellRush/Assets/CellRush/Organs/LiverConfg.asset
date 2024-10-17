@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbfbb5af293b342938412aabf624811c, type: 3}
+  m_Name: LiverConfg
+  m_EditorClassIdentifier: 
+  organName: Stomach
+  description: "The stomach is your body\u2019s very own cauldron, brewing up energy
+    from snacks and delights! Add cells to whip up a feast of energy production!
+    Just remember: no mixing tacos with smoothies... or you might experience some
+    'digestive drama!'"
+  organImage: {fileID: 21300000, guid: 75a1e199c3ec44004b06bcbe1b52e5a5, type: 3}
+  organBackgroundImage: {fileID: -4089907207422317274, guid: 32001c9291693478aa0925435c49e516, type: 3}
+  organColor: {r: 0.27027628, g: 0.735849, b: 0.24644002, a: 1}
+  baseEnergyPerCell:
+    mantissa: 1
+    magnitude: 0
+    value: 1.00
+  baseCosts:
+  - mantissa: 0
+    magnitude: 0
+    value: 0.00
+  - mantissa: 1
+    magnitude: 1
+    value: 1.00K
+  - mantissa: 10
+    magnitude: 1
+    value: 10.00K
+  - mantissa: 100
+    magnitude: 1
+    value: 100.00K
+  - mantissa: 1
+    magnitude: 2
+    value: 1.00M
+  baseCellCost:
+    mantissa: 0
+    magnitude: 0
+    value: 
+  upgradesInfo:
+  - percentageIncrease: 20
+    cost:
+      mantissa: 0
+      magnitude: 0
+      value: 
+  - percentageIncrease: 50
+    cost:
+      mantissa: 0
+      magnitude: 0
+      value: 
+  - percentageIncrease: 100
+    cost:
+      mantissa: 0
+      magnitude: 0
+      value: 
+  - percentageIncrease: 200
+    cost:
+      mantissa: 0
+      magnitude: 0
+      value: 
+  - percentageIncrease: 400
+    cost:
+      mantissa: 0
+      magnitude: 0
+      value: 
